@@ -6,3 +6,5 @@ Agenda
 - PowerShell IoT
 - Att tänka på vid skripting på företag
 - Lunchmeny via powershell
+
+Video från presentationen kan ses på [youtube.](https://youtu.be/ZrKzpYA7HWg)
